@@ -34,5 +34,5 @@ You can view the live website by opening the `index.html` file in your browser, 
 
 Thank you for visiting this project. I hope you found it useful and well-structured.
 
-## File Structure
+
 
